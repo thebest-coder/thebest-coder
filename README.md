@@ -3,13 +3,12 @@
 
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/thebest-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thebest-coder" height="30" width="40" /></a>
 <a href="https://twitter.com/coderthebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderthebest" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thebest-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thebest-coder" height="30" width="40" /></a>
+<a href="https://fb.com/thebestcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thebestcoder" height="30" width="40" /></a>
 <a href="https://instagram.com/thebest_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thebest_coder" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thebest_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebest_coder" height="30" width="40" /></a>
 </p>
@@ -24,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebest-coder&show_icons=true&locale=en" alt="thebest-coder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebest-coder&" alt="thebest-coder" /></p>
+
+<br><br>
+* Telegram: `@thebest_coder`
+* Email: `AbdurasulovJavokhir0304@gmail.com`
