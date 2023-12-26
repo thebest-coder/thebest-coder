@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [t.me/AbdurasulovJavohir](t.me/AbdurasulovJavohir)
 
-- 🔵Telegram **[t.me/AbdurasulovJavohir](t.me/thebest_coder)**
+- 🔵Telegram **[AbdurasulovJavohir](t.me/thebest_coder)**
 
 - 📫 Email **AbdurasulovJavokhir0304@gmail.com**
 
