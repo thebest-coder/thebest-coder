@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [t.me/AbdurasulovJavohir](t.me/AbdurasulovJavohir)
 
-- 🔵Telegram **t.me/thebest_coder**
+- 🔵Telegram **[t.me/AbdurasulovJavohir](t.me/thebest_coder)**
 
 - 📫 Email **AbdurasulovJavokhir0304@gmail.com**
 
@@ -15,8 +15,6 @@
 
 <a href="https://twitter.com/coderthebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderthebest" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thebest-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thebest-coder" height="30" width="40" /></a>
-
-<a href="https://t.me/thebest_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="thebest_coder" height="30" width="40" /></a>
 <a href="https://instagram.com/thebest_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thebest_coder" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thebest_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebest_coder" height="30" width="40" /></a>
 
