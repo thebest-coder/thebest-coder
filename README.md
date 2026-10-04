@@ -1,13 +1,9 @@
 # Javokhir Abdurasulov
 
-Python developer from Uzbekistan, focused on backend work.
+Python backend developer based in Navoi, Uzbekistan.
 
-I build small web apps and Telegram bots. Here are a few projects you can look through:
+I work with Django, Flask, PostgreSQL and SQLAlchemy. I've also built Telegram bots with aiogram.
 
-- **[Task Master](https://github.com/thebest-coder/FlaskApp)** — a Flask task manager with create, edit and delete flows, backed by SQLite and SQLAlchemy.
-- **[Telegram user info bot](https://github.com/thebest-coder/tguserinfo-bot)** — an aiogram bot that shows a user's Telegram profile details.
-- **[Personal portfolio](https://github.com/thebest-coder/javokhir-portfolio)** — a simple site built with HTML, CSS, JavaScript and Bootstrap.
+Open to backend roles.
 
-**Tools I've worked with:** Python, Flask, Django, SQLAlchemy, PostgreSQL and aiogram.
-
-I'm open to Python backend opportunities. If you'd like to talk, reach me by [email](mailto:AbdurasulovJavokhir0304@gmail.com), [LinkedIn](https://www.linkedin.com/in/thebest-coder/) or [Telegram](https://t.me/thebest_coder).
+[Email](mailto:AbdurasulovJavokhir0304@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thebest-coder/) · [Telegram](https://t.me/thebest_coder)
